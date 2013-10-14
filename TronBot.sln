@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TronBot", "TronBot\TronBot.csproj", "{A96D83E2-F946-4741-BCCC-DF0C14CF62BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TronBot.Tests", "TronBot.Tests\TronBot.Tests.csproj", "{1AE9A691-FA94-48F9-814E-7E7C0582B455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A96D83E2-F946-4741-BCCC-DF0C14CF62BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96D83E2-F946-4741-BCCC-DF0C14CF62BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96D83E2-F946-4741-BCCC-DF0C14CF62BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96D83E2-F946-4741-BCCC-DF0C14CF62BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE9A691-FA94-48F9-814E-7E7C0582B455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE9A691-FA94-48F9-814E-7E7C0582B455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE9A691-FA94-48F9-814E-7E7C0582B455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE9A691-FA94-48F9-814E-7E7C0582B455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
